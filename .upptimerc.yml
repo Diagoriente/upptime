@@ -9,7 +9,7 @@ sites:
     url: https://plateforme.diagoriente.beta.gouv.fr
   - name: Plateforme Pro
     url: https://plateforme-pro.diagoriente.beta.gouv.fr
-  - name: Version Tous Publics
+  - name: Diagoriente Tous Publics (ancienne version)
     url: https://web-app.diagoriente.beta.gouv.fr
   - name: API SEMAFOR
     url: https://api-recherche-bucfm.diagoriente.beta.gouv.fr/docs
@@ -23,8 +23,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Diagoriente** Service Status"
+  name: Diagoriente Service Status
+  # introTitle: "**Diagoriente** Service Status"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
