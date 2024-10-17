@@ -22,8 +22,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/92217143?s=200&v=4
   name: Diagoriente Service Status
+  theme: light
   # introTitle: "**Diagoriente** Service Status"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -31,6 +32,69 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  activeIncidents: Incidents actifs
+  allSystemsOperational: Tous les systèmes sont opérationnels
+  incidentReport: "Rapport de l'incident n°$NUMBER →"
+  activeIncidentSummary: Ouvert le $DATE avec $POSTS publications
+  incidentTitle: Détails de l'incident n°$NUMBER
+  incidentDetails: Détails de l'incident
+  incidentFixed: Résolu
+  incidentOngoing: En cours
+  incidentOpenedAt: Ouvert le
+  incidentClosedAt: Fermé le
+  incidentViewOnGitHub: Voir et s'abonner sur GitHub
+  incidentCommentSummary: Publié le $DATE par $AUTHOR
+  incidentBack: ← Retour à tous les incidents
+  pastIncidents: Incidents passés
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS publications
+  liveStatus: Statut en direct
+  overallUptime: "Temps de disponibilité global : $UPTIME"
+  overallUptimeTitle: Temps de disponibilité global
+  averageResponseTime: "Temps de réponse moyen : $TIMEms"
+  averageResponseTimeTitle: Temps de réponse moyen
+  sevelDayResponseTime: Temps de réponse sur 7 jours
+  responseTimeMs: Temps de réponse (ms)
+  up: En ligne
+  down: Hors ligne
+  degraded: Dégradé
+  ms: ms
+  loading: Chargement
+  navGitHub: GitHub
+  footer: Cette page est [open source]($REPO), propulsée par [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Limite de requêtes dépassée
+  rateLimitExceededIntro: Vous avez dépassé le nombre de requêtes autorisées par heure, vous devrez attendre avant d'accéder à nouveau à ce site. Vous pouvez également ajouter un jeton d'accès personnel GitHub pour continuer à utiliser ce site.
+  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
+  rateLimitExceededErrorMeaning: Ce site utilise l'API GitHub pour accéder aux données en temps réel sur l'état de nos sites. Par défaut, GitHub autorise chaque adresse IP à effectuer 60 requêtes par heure, que vous avez consommées.
+  rateLimitExceededErrorHowCanFix: Comment puis-je résoudre ce problème ?
+  rateLimitExceededErrorFix: Vous pouvez attendre une heure et la limite pour votre adresse IP sera réinitialisée. Sinon, vous pouvez ajouter votre jeton d'accès personnel GitHub, qui vous donne 5 000 requêtes supplémentaires par heure.
+  rateLimitExceededGeneratePAT: Apprenez à générer un jeton d'accès personnel
+  rateLimitExceededHasSet: Vous avez défini un jeton d'accès personnel.
+  rateLimitExceededRemoveToken: Supprimer le jeton
+  rateLimitExceededGitHubPAT: Jeton d'accès personnel GitHub
+  rateLimitExceededCopyPastePAT: Copiez et collez votre jeton
+  rateLimitExceededSaveToken: Enregistrer le jeton
+  errorTitle: Une erreur est survenue
+  errorIntro: Une erreur est survenue lors de la récupération des dernières informations de statut.
+  errorText: Vous pouvez réessayer dans quelques instants.
+  errorHome: Aller à la page d'accueil
+  pastScheduledMaintenance: Maintenances programmées passées
+  scheduledMaintenance: Maintenance programmée
+  scheduledMaintenanceSummaryStarted: Commencée le $DATE pour une durée de $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Commence le $DATE pour une durée de $DURATION minutes
+  startedAt: Commencée à
+  startsAt: Commence à
+  duration: Durée
+  durationMin: $DURATION minutes
+  incidentCompleted: Terminé
+  incidentScheduled: Planifié
+  duration24H: 24h
+  duration7D: 7j
+  duration30D: 30j
+  duration1Y: 1an
+  durationAll: tout
+  locale: fr-FR
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
