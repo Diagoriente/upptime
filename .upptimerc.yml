@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Site web
     url: https://diagoriente.beta.gouv.fr
+  - name: SSO Diagoriente
+    url: https://authentification.diagoriente.beta.gouv.fr
   - name: Plateforme
     url: https://plateforme.diagoriente.beta.gouv.fr
   - name: Plateforme Pro
