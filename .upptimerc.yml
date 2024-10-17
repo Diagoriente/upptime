@@ -13,7 +13,10 @@ sites:
     url: https://web-app.diagoriente.beta.gouv.fr
   - name: API SEMAFOR
     url: https://api-recherche-bucfm.diagoriente.beta.gouv.fr/docs
-    
+
+assignees:
+  - mteterel
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
