@@ -76,7 +76,7 @@
     "url": "https://web-app.diagoriente.beta.gouv.fr",
     "icon": "https://icons.duckduckgo.com/ip3/web-app.diagoriente.beta.gouv.fr.ico",
     "slug": "diagoriente-tous-publics-ancienne-version",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 974,
     "timeMonth": 912,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-26": 0
+    }
   },
   {
     "name": "API SEMAFOR",
