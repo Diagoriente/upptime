@@ -76,7 +76,7 @@
     "url": "https://web-app.diagoriente.beta.gouv.fr",
     "icon": "https://icons.duckduckgo.com/ip3/web-app.diagoriente.beta.gouv.fr.ico",
     "slug": "diagoriente-tous-publics-ancienne-version",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "95.19%",
     "uptimeWeek": "99.31%",
@@ -88,6 +88,7 @@
     "timeMonth": 888,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2024-10-27": 0,
       "2024-10-26": 69
     }
   },
