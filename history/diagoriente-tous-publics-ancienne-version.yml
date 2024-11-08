@@ -1,7 +1,7 @@
 url: https://web-app.diagoriente.beta.gouv.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-08T07:45:27.671Z
+status: up
+code: 200
+responseTime: 888
+lastUpdated: 2024-11-08T10:51:26.959Z
 startTime: 2024-10-17T08:05:24.392Z
 generator: Upptime <https://github.com/upptime/upptime>
