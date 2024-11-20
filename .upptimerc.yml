@@ -15,8 +15,6 @@ sites:
     url: https://web-app.diagoriente.beta.gouv.fr
   - name: API SEMAFOR
     url: https://api-recherche-bucfm.diagoriente.beta.gouv.fr/docs
-  - name: WEBHOOK TEST - IGNORE
-    url: https://thereisnowaythiswebsiteexists.fake.tld
 
 assignees:
   - mteterel
