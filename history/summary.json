@@ -113,19 +113,19 @@
     "url": "https://api-recherche-bucfm.diagoriente.beta.gouv.fr/docs",
     "icon": "https://icons.duckduckgo.com/ip3/api-recherche-bucfm.diagoriente.beta.gouv.fr.ico",
     "slug": "api-semafor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 984,
-    "timeWeek": 844,
-    "timeMonth": 820,
-    "timeYear": 804,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 805,
+    "timeDay": 950,
+    "timeWeek": 848,
+    "timeMonth": 822,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-12-16": 0
+      "2024-12-16": 20
     }
   }
 ]
