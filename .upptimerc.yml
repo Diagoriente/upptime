@@ -14,7 +14,7 @@ sites:
   - name: Diagoriente Tous Publics (ancienne version)
     url: https://web-app.diagoriente.beta.gouv.fr
   - name: API SEMAFOR
-    url: https://api-recherche-bucfm.diagoriente.beta.gouv.fr/docs
+    url: https://semafor.diagoriente.beta.gouv.fr/docs
 
 assignees:
   - mteterel
