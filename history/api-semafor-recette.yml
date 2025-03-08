@@ -1,7 +1,7 @@
 url: https://semafor-recette.diagoriente.beta.gouv.fr/docs
-status: down
-code: 503
-responseTime: 823
-lastUpdated: 2025-03-08T14:22:31.167Z
+status: up
+code: 200
+responseTime: 1799
+lastUpdated: 2025-03-08T14:30:23.704Z
 startTime: 2025-01-31T08:35:01.098Z
 generator: Upptime <https://github.com/upptime/upptime>
