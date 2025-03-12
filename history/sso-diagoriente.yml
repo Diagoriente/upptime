@@ -1,7 +1,7 @@
 url: https://authentification.diagoriente.beta.gouv.fr
-status: down
-code: 404
-responseTime: 1143
-lastUpdated: 2025-03-12T09:52:38.357Z
+status: up
+code: 200
+responseTime: 668
+lastUpdated: 2025-03-12T10:08:02.157Z
 startTime: 2024-10-17T12:07:47.507Z
 generator: Upptime <https://github.com/upptime/upptime>
