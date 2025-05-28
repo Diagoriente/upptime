@@ -11,8 +11,8 @@ sites:
     url: https://plateforme.diagoriente.beta.gouv.fr
   - name: Plateforme Pro
     url: https://plateforme-pro.diagoriente.beta.gouv.fr
-  - name: Diagoriente Tous Publics (ancienne version)
-    url: https://web-app.diagoriente.beta.gouv.fr
+  - name: Diagoriente CEJ
+    url: https://cej.diagoriente.beta.gouv.fr
   - name: API SEMAFOR
     url: https://semafor.diagoriente.beta.gouv.fr/docs
   - name: API SEMAFOR (recette)
