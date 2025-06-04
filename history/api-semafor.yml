@@ -1,7 +1,7 @@
 url: https://semafor.diagoriente.beta.gouv.fr/docs
-status: down
-code: 503
-responseTime: 737
-lastUpdated: 2025-06-04T14:50:22.273Z
+status: up
+code: 200
+responseTime: 1737
+lastUpdated: 2025-06-04T15:33:29.257Z
 startTime: 2024-10-17T07:12:30.412Z
 generator: Upptime <https://github.com/upptime/upptime>
