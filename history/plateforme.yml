@@ -1,7 +1,7 @@
 url: https://plateforme.diagoriente.beta.gouv.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-18T17:54:30.043Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2025-06-18T18:13:10.084Z
 startTime: 2024-10-17T07:12:27.733Z
 generator: Upptime <https://github.com/upptime/upptime>
