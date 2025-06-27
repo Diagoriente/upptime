@@ -90,7 +90,7 @@
     "slug": "diagoriente-cej",
     "status": "up",
     "uptime": "95.98%",
-    "uptimeDay": "3.67%",
+    "uptimeDay": "3.68%",
     "uptimeWeek": "82.92%",
     "uptimeMonth": "95.98%",
     "uptimeYear": "95.98%",
@@ -114,7 +114,7 @@
     "slug": "api-semafor",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "3.66%",
+    "uptimeDay": "3.68%",
     "uptimeWeek": "82.46%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "99.47%",
@@ -177,19 +177,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/semafor.diagoriente.fr.ico",
     "slug": "api-semafor-prod-2",
     "status": "up",
-    "uptime": "3.75%",
-    "uptimeDay": "3.75%",
-    "uptimeWeek": "3.75%",
-    "uptimeMonth": "3.75%",
-    "uptimeYear": "3.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 249,
     "timeWeek": 249,
     "timeMonth": 249,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2025-06-27": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "V6 CEJ (prod 2)",
