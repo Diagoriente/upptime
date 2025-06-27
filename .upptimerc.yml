@@ -18,7 +18,7 @@ sites:
   - name: API SEMAFOR (recette)
     url: https://semafor-recette.diagoriente.beta.gouv.fr/docs
   - name: API SEMAFOR (prod 2)
-    url: https://semafor.diagoriente.fr
+    url: https://semafor.diagoriente.fr/docs
   - name: V6 CEJ (prod 2)
     url: https://cej.diagoriente.beta.gouv.fr
 
