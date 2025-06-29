@@ -4,23 +4,19 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Site web
-    url: https://diagoriente.beta.gouv.fr
+    url: https://diagoriente.fr
   - name: SSO Diagoriente
-    url: https://authentification.diagoriente.beta.gouv.fr
+    url: https://authentification.diagoriente.fr
   - name: Plateforme
-    url: https://plateforme.diagoriente.beta.gouv.fr
+    url: https://plateforme.diagoriente.fr
   - name: Plateforme Pro
-    url: https://plateforme-pro.diagoriente.beta.gouv.fr
+    url: https://plateforme-pro.diagoriente.fr
   - name: Diagoriente CEJ
-    url: https://cej.diagoriente.beta.gouv.fr
+    url: https://cej.diagoriente.fr
   - name: API SEMAFOR
-    url: https://semafor.diagoriente.beta.gouv.fr/docs
+    url: https://semafor.diagoriente.fr/docs
   - name: API SEMAFOR (recette)
     url: https://semafor-recette.diagoriente.beta.gouv.fr/docs
-  - name: API SEMAFOR (prod 2)
-    url: https://semafor.diagoriente.fr/docs
-  - name: V6 CEJ (prod 2)
-    url: https://cej.diagoriente.beta.gouv.fr
 
 assignees:
   - mteterel
