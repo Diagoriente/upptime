@@ -16,8 +16,8 @@ sites:
     url: https://cej.diagoriente.fr
   - name: API SEMAFOR
     url: https://semafor.diagoriente.fr/docs
-  - name: API SEMAFOR (recette)
-    url: https://semafor-recette.diagoriente.beta.gouv.fr/docs
+  #- name: API SEMAFOR (recette)
+  #  url: https://semafor-recette.diagoriente.beta.gouv.fr/docs
 
 assignees:
   - mteterel
