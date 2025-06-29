@@ -1,7 +1,7 @@
 # Change these first
 owner: diagoriente # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-user-agent: $USER_AGENT
+user-agent: Diagoriente
 
 sites:
   - name: Site web
